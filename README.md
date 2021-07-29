@@ -1,3 +1,6 @@
+# Hi, I'm Kinjal Suryavanshi 👋🏾 👩🏾‍💻
+
+I'm a software engineer who is passionate about learn new things and explore on them✨  Some technologies I enjoy working with include PHP, Python, wordpress, laravel framwork and SQL. I recently was selected in the one technologies as a fresher <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community..
 
 <p  align="center">
 <a href= "https://thoughtsofkinjal.blogspot.com/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
