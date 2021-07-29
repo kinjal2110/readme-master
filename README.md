@@ -6,4 +6,4 @@
 <a href="https://instagram.com/_.kinjal._21"><img height="30" src="/icon/instagram.jpg"></a>
 </p>
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-<a href="https://instagram.com/_.kinjal._21">Image by <a href="https://pixabay.com/users/samuel1983-1626596/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1562136"></a> <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1562136"></a></a>
+<a href="https://instagram.com/_.kinjal._21"><img src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/instagram.jpg"> </a>
