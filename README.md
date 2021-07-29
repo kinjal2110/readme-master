@@ -8,3 +8,5 @@ I'm a software engineer who is passionate about learn new things and explore on 
 <a href= "https://www.linkedin.com/in/kinjal-suryavanshi-425867107/"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/linkedin.png"></a>
 <a href= "https://twitter.com/KinjalSuryavan2"><img  width="30px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/twitter.png"></a>
 <a href="https://instagram.com/_.kinjal._21"><img src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/instagram.jpg" height="30px" width="30px"> </a>
+
+  <a href="https://github.com/kinjal2110/github-readme-stats"><img alt="Vijay-Kumavat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kinjal2110&show_icons=true&count_private=true&hide=" /></a>
